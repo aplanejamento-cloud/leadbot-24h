@@ -1,21 +1,21 @@
-# LeadBot 24h — n8n WhatsApp Lead Qualification Bot (AI, 24/7, No Paid API)
+# LeadBot 24h
 
-Ready-to-import n8n workflow that answers, qualifies and prioritizes WhatsApp leads
-24/7 using Google Gemini (free tier). Install in ~15 minutes, zero coding.
+Atendimento automático de WhatsApp para pequenos negócios: responde em segundos, qualifica o
+interessado e encaminha para o checkout quando o cliente está pronto.
 
-## What it does
+## Para quem
+Lojas, clínicas, prestadores de serviço e times de vendas que perdem contatos por demora na
+primeira resposta.
 
-- Replies to incoming WhatsApp messages automatically
-- Qualifies leads (name, need, budget, urgency)
-- Prioritizes real buyers and notifies you only when a qualified lead appears
-- Runs 24/7, no paid API required (Gemini free tier)
+## O que faz
+- Responde 24h com o tom do negócio.
+- Faz perguntas de qualificação e registra o contexto.
+- Encaminha para compra ou para um humano quando necessário.
 
-## Get it
+## Demonstração
+Veja a página do produto e o fluxo de compra:
 
-Checkout (with tracking): https://leadbot-redirector.aplanejamento.workers.dev/r/leadbot-lite?utm_source=github&utm_medium=repo&utm_campaign=leadbot24h&utm_content=readme
+[Conhecer o LeadBot 24h](https://planificador7.gumroad.com/l/leadbot-24h?utm_source=local_lead&utm_medium=github)
 
-Direct: https://planificador7.gumroad.com/l/leadbot-24h
-
-## License
-
-Personal/commercial use per the Gumroad product terms.
+## Licença
+Uso comercial conforme a licença MIT deste repositório.
