@@ -15,7 +15,7 @@ primeira resposta.
 ## Demonstração
 Veja a página do produto e o fluxo de compra:
 
-[Conhecer o LeadBot 24h](https://planificador7.gumroad.com/l/leadbot-24h?utm_source=github&utm_medium=repo&utm_campaign=leadbot24h)
+[Conhecer o LeadBot 24h](https://leadbot-redirector.aplanejamento.workers.dev/r/leadbot-24h?utm_source=github&utm_medium=repo&utm_campaign=leadbot24h)
 
 ## Licença
 Uso comercial conforme a licença MIT deste repositório.
